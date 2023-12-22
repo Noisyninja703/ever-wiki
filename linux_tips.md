@@ -29,4 +29,5 @@ Win + ArrowKeys --> change window
 Win + Shift + Arrow --> Resize
 Win + CTRL + Shift --> Apps
 Win + B --> Browser
+Win + Num --> Goto Workspace
 ```
