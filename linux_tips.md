@@ -16,3 +16,17 @@ nano <Filename> {Edit file in terminal}
 CTRL + O --> Save file
 CTRL + X --> Exit Nano
 ```
+
+<h3>Hotkeys for Hyprland</h3>
+
+```
+Win + Return --> New terminal
+Win + Q --> Kill Current Window
+Win + t --> Toggle Floating Window
+Win + Shift + T --> All Float
+Win + J --> toggle split
+Win + ArrowKeys --> change window
+Win + Shift + Arrow --> Resize
+Win + CTRL + Shift --> Apps
+Win + B --> Browser
+```
