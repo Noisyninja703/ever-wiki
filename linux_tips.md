@@ -31,3 +31,9 @@ Win + CTRL + Shift --> Apps
 Win + B --> Browser
 Win + Num --> Goto Workspace
 ```
+
+## Change Ownership of Folder (from root)
+
+```
+sudo chown <username>:<username> <path>
+```
